@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the rules in your Firebase Realtime Database or Firestore are improperly configured.  For instance, if you have overly restrictive rules that deny access even to authenticated users, your app will fail silently. Another common issue is improper data structuring leading to unexpected rule behavior.
